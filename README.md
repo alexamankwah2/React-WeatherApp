@@ -1,7 +1,20 @@
-# Getting Started with Create React App
+# React Weather App
+Welcome to the React Weather App! This is a simple web application built with React that allows users to check the weather forecast for a specific location using the OpenWeather API. With this app, users can stay informed about the current weather conditions, temperature, humidity, and more for their desired location.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- Get current weather information for any location.
+- Display temperature in Celsius or Fahrenheit.
+- View additional details such as humidity, wind speed, and weather description.
+- Clean and intuitive user interface.
 
+## Demo
+You can see a live demo of the React Weather App at ....
+## Installation and Usage
+- Clone the repository
+- Install the dependencies
+- Replace your_openweather_api_key with your actual API key.
+- Run npm start
+- This will launch the React Weather App on http://localhost:3000.
 ## Available Scripts
 
 In the project directory, you can run:
