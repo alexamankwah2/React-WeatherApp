@@ -1,4 +1,7 @@
 # React Weather App
+
+![screencapture-react-weatherapp-pages-dev-2023-08-03-21_13_15](https://github.com/alexamankwah2/React-WeatherApp/assets/128336742/1503858d-987e-4c4c-ad25-80beb873d568)
+
 Welcome to the React Weather App! This is a simple web application built with React that allows users to check the weather forecast for a specific location using the OpenWeather API. With this app, users can stay informed about the current weather conditions, temperature, humidity, and more for their desired location.
 
 ## Features
@@ -8,7 +11,7 @@ Welcome to the React Weather App! This is a simple web application built with Re
 - Clean and intuitive user interface.
 
 ## Demo
-You can see a live demo of the React Weather App at ....
+You can see a live demo at [https://react-weatherapp.pages.dev](React Weather App) 
 ## Installation and Usage
 - Clone the repository
 - Install the dependencies
