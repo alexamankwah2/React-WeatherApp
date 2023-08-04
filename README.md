@@ -11,7 +11,7 @@ Welcome to the React Weather App! This is a simple web application built with Re
 - Clean and intuitive user interface.
 
 ## Demo
-You can see a live demo at [https://react-weatherapp.pages.dev](React Weather App) 
+You can see a live demo at [React Weather App](https://react-weatherapp.pages.dev/)
 ## Installation and Usage
 - Clone the repository
 - Install the dependencies
